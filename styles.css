@@ -1,0 +1,48 @@
+
+.box {
+  border-radius: 1%;
+  //background-color: white;
+  width: 500px;
+  margin: 10% auto auto auto;
+  padding: 40px 50px;
+}
+
+#new-quote {
+  margin: auto auto 10% auto;
+  background-color: #f5f5dc;
+  border-width: medium;
+}
+
+#tweet {
+  float: right;
+  color: #fff;
+  background-color: #55acee;
+  border-color: rgba(0,0,0,0.2);
+}
+
+#quote {
+  text-align: center;
+}
+
+#quote-text {
+  font-size: 2em;
+}
+
+#quote-author {
+  text-align: right;
+  font-size: 1.3em;
+  font-style: italic;
+  margin: 5% auto auto auto;
+}
+
+.footer {
+  width:600px;
+  text-align:center;
+  margin:15px auto 30px auto;
+  font-size:1em;
+}
+
+#me {
+  text-decoration: none;
+  color:#000066;
+}
